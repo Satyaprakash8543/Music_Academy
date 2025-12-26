@@ -1,0 +1,64 @@
+{
+  "webinars": [
+    {
+      "id": 1,
+      "title": "Understanding Music Theory",
+      "slug": "understanding-music-theory",
+      "description": "Explore scales, chords, and harmony to build a strong foundation in music theory.",
+      "price": 0,
+      "instructor": "John Smith",
+      "isFeatured": true,
+      "image": "/webinars/img1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Guitar Chords & Progressions",
+      "slug": "guitar-chords-progressions",
+      "description": "Learn essential guitar chords and progressions used in popular music.",
+      "price": 0,
+      "instructor": "Alex Johnson",
+      "isFeatured": false,
+      "image": "/webinars/guitar-chords.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Vocal Training for Beginners",
+      "slug": "vocal-training-beginners",
+      "description": "Improve your pitch, breathing, and vocal control with guided exercises.",
+      "price": 0,
+      "instructor": "Sarah Lee",
+      "isFeatured": true,
+      "image": "/webinars/vocal-training.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Piano Basics & Scales",
+      "slug": "piano-basics-scales",
+      "description": "Understand piano fundamentals, hand positioning, and basic scales.",
+      "price": 0,
+      "instructor": "Michael Brown",
+      "isFeatured": true,
+      "image": "/webinars/piano-basics.jpg "
+    },
+    {
+      "id": 5,
+      "title": "Songwriting Essentials",
+      "slug": "songwriting-essentials",
+      "description": "Learn how to write lyrics and melodies that connect with listeners.",
+      "price": 0,
+      "instructor": "Emily Davis",
+      "isFeatured": true,
+      "image": "/webinars/songwriting.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Music Production Fundamentals",
+      "slug": "music-production-fundamentals",
+      "description": "Get started with music production using modern digital tools and workflows.",
+      "price": 0,
+      "instructor": "Daniel Martin",
+      "isFeatured": true,
+      "image": "/webinars/music-production.jpg"
+    }
+  ]
+}
