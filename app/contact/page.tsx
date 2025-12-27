@@ -14,6 +14,7 @@ const page=()=> {
     e.preventDefault();
     console.log("Form submitted");
   };
+  // this is contact page
   return (
     <div className="shadow-input mx-auto w-full max-w-md rounded-none bg-white p-6 md:rounded-2xl  md:p-6  sm:max-w-md dark:bg-black my-18 ">
       <h2 className="text-2xl md:text-2xl text-center font-bold text-neutral-200 dark:text-teal-600 underline ">
