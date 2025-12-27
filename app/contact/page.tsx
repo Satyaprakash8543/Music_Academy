@@ -15,8 +15,8 @@ const page=()=> {
     console.log("Form submitted");
   };
   return (
-    <div className="shadow-input mx-auto w-full max-w-md rounded-none bg-white p-4 md:rounded-2xl md:p-8 dark:bg-black mt-15">
-      <h2 className="text-xl font-bold text-neutral-200 dark:text-teal-600 underline ">
+    <div className="shadow-input mx-auto w-full max-w-md rounded-none bg-white p-6 md:rounded-2xl  md:p-6  sm:max-w-md dark:bg-black my-18 ">
+      <h2 className="text-2xl md:text-2xl text-center font-bold text-neutral-200 dark:text-teal-600 underline ">
         Welcome to the musics art 
       </h2>
       <p className="mt-2 max-w-sm text-sm text-neutral-600 dark:text-neutral-300">
@@ -24,7 +24,7 @@ const page=()=> {
         yet
       </p>
 
-      <form className="my-5" onSubmit={handleSubmit}>
+      <form className="my-2" onSubmit={handleSubmit}>
         <div className="mb-2 flex flex-col space-y-2 md:flex-row md:space-y-0 md:space-x-2">
           <LabelInputContainer>
             <Label htmlFor="firstname">First name</Label>
@@ -89,6 +89,8 @@ const page=()=> {
         </div>
       </form>
     </div>
+
+    
   );
 }
 

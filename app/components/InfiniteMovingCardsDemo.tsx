@@ -49,7 +49,7 @@ const InfiniteMovingCardsDemo = () => {
         )}
       />
 
-      <h1 className="text-center sm:text-2xl md:text-3xl mb-8 font-bold z-10 ">
+      <h1 className="text-center text-2xl sm:text-3xl md:text-4xl mb-8 font-bold z-10 ">
         Hear Our Harmony:Voices of Success
       </h1>
 
