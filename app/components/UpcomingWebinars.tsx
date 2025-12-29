@@ -53,14 +53,13 @@ const UpcomingWebinars = () => {
       <div className="max-w-7xl mx-auto px-2 sm:px-6">
         <div className="text-center">
           <h2 className="uppercase text-base text-teal-600 font-semibold tracking-wide">
-            {" "}
             Featured courses
           </h2>
           <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-white sm:text-4xl">
             Enhance Your Musical Journey
           </p>
         </div>
-        <div className="mt-10">
+        <div className="mt-10 ">
           <HoverEffect
             items={featuredWebinars.map((webinar) => ({
               title: webinar.title,
